@@ -1,0 +1,3 @@
+export const DB_SEQUELIZE = 'SEQUELIZE'
+
+export const PEOPLE_TABLE = 'PEOPLE_TABLE'
